@@ -56,3 +56,4 @@ urllib3
 wcwidth
 Werkzeug
 zipp
+gunicorn
