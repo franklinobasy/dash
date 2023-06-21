@@ -42,7 +42,6 @@ pycodestyle
 Pygments
 python-dateutil
 pytz
-pywin32
 pyzmq
 requests
 retrying
