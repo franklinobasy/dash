@@ -25,7 +25,7 @@ Jinja2
 jupyter-dash
 jupyter_client
 jupyter_core
-MarkupSaf
+MarkupSafe
 matplotlib-inline
 nest-asyncio
 numpy
