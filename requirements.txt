@@ -31,7 +31,7 @@ nest-asyncio
 numpy
 packaging
 pandas
-parso=
+parso
 pickleshare
 platformdirs
 plotly
